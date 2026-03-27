@@ -9,8 +9,8 @@ This project focuses on **UI/UX excellence**, modular architecture, and frontend
 ## 🚀 Live Demo
 
 🌐 **Netlify Deployment:**
-ai-chatbot-prompt.netlify.app
 
+https://ai-chatbot-prompt.netlify.app/
 🌍 **Docs:**
 https://docs.google.com/document/d/1PvQ7y6PV_1-GzM2cNyxBKJcwLzaTVlc5PziVhR-9g7o/edit?usp=sharing
 
